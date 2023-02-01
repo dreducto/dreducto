@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi I'm Rifat Cinar</h1>
 <h3 align="center">I live in Turkey. I am educating myself on web development. And I produce simple Python projects. | Türkiye'de yaşıyorum. Kendimi web geliştirme konusunda eğitiyorum. Ve basit Python projeleri üretiyorum.</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 # 💫 About Me|Hakkımda:
 🔭 I’m currently working on Python<br>🌱 I’m currently learning JavaScript, HTML, CSS<br>📬How to reach me: cinar42628@gmail.com<br>🌌Linkedin: https://www.linkedin.com/in/cinarrifat/<br>🎲Discord Profile: dreducto#9696
