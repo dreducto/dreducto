@@ -1,7 +1,11 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://dreducto.io)
 
-# 💫 About Me:
-I'm Rifat Cinar<br>I live in Turkey. <br>I am educating myself on web development. <br>And I produce simple Python projects. <br><br>Ben Rifat Çınar<br>Türkiye'de yaşıyorum. <br>Kendimi web geliştirme konusunda eğitiyorum. <br>Ve basit Python projeleri üretiyorum.<br><br><br><br>🔭 I’m currently working on Python<br>🌱 I’m currently learning JavaScript, HTML, CSS<br>📬How to reach me: cinar42628@gmail.com<br>🌌Linkedin: https://www.linkedin.com/in/cinarrifat/
+<h1 align="center">Hi I'm Rifat Cinar</h1>
+<h3 align="center">I live in Turkey. I am educating myself on web development. And I produce simple Python projects. | Türkiye'de yaşıyorum. Kendimi web geliştirme konusunda eğitiyorum. Ve basit Python projeleri üretiyorum.</h3>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+
+# 💫 About Me|Hakkımda:
+🔭 I’m currently working on Python<br>🌱 I’m currently learning JavaScript, HTML, CSS<br>📬How to reach me: cinar42628@gmail.com<br>🌌Linkedin: https://www.linkedin.com/in/cinarrifat/<br>🎲Discord Profile: dreducto#9696
 
 
 ## 🌐 Socials:
