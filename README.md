@@ -4,7 +4,7 @@
 <h3 align="center">I live in Turkey. I am educating myself on web development. And I produce simple Python projects. | Türkiye'de yaşıyorum. Kendimi web geliştirme konusunda eğitiyorum. Ve basit Python projeleri üretiyorum.</h3>
 
 # 💫 About Me|Hakkımda:
-🔭 I’m currently working on Python<br>🌱 I’m currently learning JavaScript, HTML, CSS<br>📬How to reach me: cinar42628@gmail.com<br>🌌Linkedin: https://www.linkedin.com/in/cinarrifat/<br>🎲Discord Profile: dreducto#9696
+🔭 I’m currently working on Python<br>🌱 I’m currently learning JavaScript, HTML, CSS<br>📬How to reach me: cinar42628@gmail.com<br>🌌Linkedin: https://www.linkedin.com/in/cinarrifat/<br>🎲Discord Profile: dreducto#9696<br>🏴I speak Turkish at native language level<br>🏳️I speak English with limited working proficiency
 
 
 ## 🌐 Socials:
