@@ -1,25 +1,20 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://dreducto.io)
 
-<h1 align="center">Hi I'm Rifat Cinar</h1>
-<h3 align="center">I live in Turkey. I am educating myself on web development. And I produce simple Python projects. | Türkiye'de yaşıyorum. Kendimi web geliştirme konusunda eğitiyorum. Ve basit Python projeleri üretiyorum.</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+# 💫 About Me:
+I'm Rifat Cinar<br>I live in Turkey. <br>I am educating myself on web development. <br>And I produce simple Python projects. <br><br>Ben Rifat Çınar<br>Türkiye'de yaşıyorum. <br>Kendimi web geliştirme konusunda eğitiyorum. <br>Ve basit Python projeleri üretiyorum.<br><br><br><br>🔭 I’m currently working on Python<br>🌱 I’m currently learning JavaScript, HTML, CSS<br>📬How to reach me: cinar42628@gmail.com<br>🌌Linkedin: https://www.linkedin.com/in/cinarrifat/
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreducto&label=Profile%20views&color=0e75b6&style=flat" alt="dreducto" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gundem_gun" target="blank"><img src="https://img.shields.io/twitter/follow/gundem_gun?logo=twitter&style=for-the-badge" alt="gundem_gun" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rifat_cnr.py) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cinarrifat) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/dreducto) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gundem_gun) 
 
-- I’m currently learning **CSS,HTML,JavaScript**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dreducto&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dreducto&theme=slateorange&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dreducto&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- How to reach me: **cinar42628@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=dreducto&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dreducto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dreducto" height="30" width="40" /></a>
-<a href="https://twitter.com/gundem_gun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gundem_gun" height="30" width="40" /></a>
-<a href="https://instagram.com/rifat_cnr.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rifat_cnr.py" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreducto&show_icons=true&locale=en&layout=compact" alt="dreducto" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
