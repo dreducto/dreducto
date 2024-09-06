@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://dreducto.io)
 
-<h1 align="center">Rifat Cinar</h1>
+<h1 align="center">DReducto</h1>
 <h3 align="center">Live in Turkey. Educating myself on web development. Produce simple Python projects. | Türkiye'de yaşıyorum. Kendimi web geliştirme konusunda eğitiyorum. Ve basit Python projeleri üretiyorum.</h3>
 
 # 💫 About Me|Hakkımda:
